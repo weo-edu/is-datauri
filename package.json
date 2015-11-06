@@ -1,0 +1,27 @@
+{
+  "name": "is-datauri",
+  "version": "0.1.0",
+  "description": "Check whether or not a string is a datauri",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weo-edu/is-datauri"
+  },
+  "keywords": [
+    "is",
+    "datauri",
+    "is-datauri",
+    "dataurl",
+    "data",
+    "base64"
+  ],
+  "author": "ashaffer (http://github.com/ashaffer)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weo-edu/is-datauri/issues"
+  },
+  "homepage": "https://github.com/weo-edu/is-datauri"
+}
